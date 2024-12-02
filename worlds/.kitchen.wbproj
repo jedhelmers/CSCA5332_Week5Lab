@@ -5,7 +5,7 @@ sceneTreePerspectives: 000000ff00000001000000030000001e000000c0000000fa010000000
 maximizedDockId: -1
 centralWidgetVisible: 1
 projectionMode: ORTHOGRAPHIC
-orthographicViewHeight: 7.73832e+31
+orthographicViewHeight: 2.46877e+34
 textFiles: 0 "controllers/following_waypoints/following_waypoints.py"
 globalOptionalRendering: CoordinateSystem::LidarRaysPaths::LidarPointClouds
 consoles: Console:All:All
